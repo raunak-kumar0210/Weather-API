@@ -6,8 +6,8 @@ body {
     margin: 0;
 }
 .InfoBox {
-    width: 425px; 
-    height: auto; 
+    width: 425px;
+    height: 425px; 
     display: flex;
     justify-content: center;
     text-align: center;

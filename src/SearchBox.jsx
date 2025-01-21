@@ -65,7 +65,7 @@ export default function SearchBox({updateInfo}) {
                 <Button variant="contained" type="submit">Search</Button>   
             </form>
             {error && (
-                <p style={{ color: "red", marginTop: "10px", textAlign:"center" }}>
+                <p style={{ color: "red", marginTop: "10px", textAlign:"center", fontSize:"30px" }}>
                     {error}
                 </p>
             )}
